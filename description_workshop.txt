@@ -1,0 +1,9 @@
+[h2]Tired of having your shield take up one of your precious accessory slots?[/h2]
+Are [b]you[/b] playing on normal mode and wish you had more than only two slots to work with?
+Sick of having to choose between [i]knockback resistance and defense[/i] or [b]pure raw dps?[/b]
+[b]Well I have just the mod for you![/b]
+[h1][b]Introducing the Shield Slot™![/b][/h1]
+A magical slot that clears up a precious accessory slot for better use.
+[i]No more wasted slots on necessary items, and no more accessory fumbling.[/i]
+Get [b]your[/b] Shield Slot™ today!
+[hr][url=https://github.com/Spikefall/Shield-slot]Source code[/url][/hr]

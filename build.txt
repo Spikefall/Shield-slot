@@ -1,0 +1,4 @@
+displayName = Shield Slot
+author = Spikefall
+version = 1.0
+homepage = https://github.com/Spikefall/Shield-slot
